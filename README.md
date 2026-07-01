@@ -1,16 +1,70 @@
-- 👋 Hi, I’m @prateekrajgautam
-- 👀 I’m interested in matlab, sensor localization, webdesigning, 
-- I like python for automation and GUI programming. I have designed a software to help in form filling and data entry check it at https://formhelper.mgeek.in/ You can try to move around in space in the start treck like [hero](https://formhelper.mgeek.in) section created using vanilla Javascript
-- 🌱 I’m currently learning blender for 3D modling for technical illustrations for use in academics.
-- 💞️ I’m looking to collaborate on sensor localization, web app design. 
-- 📫 How to reach me prateekrajgautam@gmail.com or https://t.me/prateekrajgautam
+# Hi, I'm Prateek Raj Gautam
 
-- You can also check my violin cover on [Youtube channel](https://www.youtube.com/channel/UCLWIqKtuyIsrz_OJH1434YA)
- 
-- check some of my recent work at 
-[formhelper](https://formhelper.mgeek.in/)
-[GeneratorJs](https://generatorjs.mgeek.in)
-<!---
-prateekrajgautam/prateekrajgautam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy building practical software that automates repetitive tasks, simplifies workflows, and bridges the gap between engineering, research, and real-world applications.
+
+My interests span **Python development, AI-assisted workflows, Linux systems, DevOps, scientific computing, web technologies, and academic research.** I particularly enjoy creating tools that save time for others.
+
+## Areas of Interest
+
+- Python Automation
+- Desktop Applications
+- Web Application Development
+- AI & LLM Integrations
+- DevOps & Self-Hosted Infrastructure
+- Docker & Linux
+- Sensor Localization & Wireless Systems
+- Scientific Computing (MATLAB & Python)
+- Technical Illustrations & 3D Visualization
+
+## Currently Working On
+
+- AI-powered automation tools
+- Open-source developer utilities
+- Self-hosted infrastructure and homelab projects
+- Technical tools for academics and researchers
+
+## Featured Projects
+
+### FormHelper
+
+A web application that simplifies repetitive form filling and data-entry workflows.
+
+[formhelper.mgeek.in](https://formhelper.mgeek.in)
+
+### GeneratorJS
+
+A collection of JavaScript utilities and generators for rapid web development.
+
+[generatorjs.mgeek.in](https://generatorjs.mgeek.in)
+
+## Technologies
+
+`Python` • `JavaScript` • `HTML` • `CSS` • `Docker` • `Linux` • `Git` • `GitHub Actions` • `MATLAB` • `SQLite` • `Flask` • `FastAPI` • `Nginx` • `Cloudflare` • `Blender`
+
+## Collaboration
+
+I'm always interested in collaborating on:
+
+- Open-source tools
+- Python automation
+- AI applications
+- Academic software
+- Web applications
+- Sensor localization research
+
+## Contact
+
+📧 **Email:**  
+prateekrajgautam@gmail.com
+
+💬 **Telegram:**  
+[t.me/prateekrajgautam](https://t.me/prateekrajgautam)
+
+🎻 **YouTube (Violin Covers & More):**  
+[youtube.com/@prateekrajgautam](https://www.youtube.com/@prateekrajgautam)
+
+## ❤️ Sponsor My Open Source Work
+
+If my projects have helped you, please consider supporting future development by becoming a GitHub Sponsor.
+
+[❤️ Sponsor prateekrajgautam at https://github.com/sponsors/prateekrajgautam](https://github.com/sponsors/prateekrajgautam)
